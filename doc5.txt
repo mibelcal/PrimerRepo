@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modif para conflicto
+=======
+modif en remoto
+>>>>>>> 93be4f064ad1e6168035c8b2a1934e09eab6bbae 
